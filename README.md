@@ -15,4 +15,4 @@
 - [Python Essentials 1 ](Cisco%20certificate%202.pdf)
 
 ### 📝 EDS Assignment
-- [Activity No-1 (Theory)](./EDS_THEORY_ACTIVITY_NO-1.pdf)
+- [Activity No-1 (Theory)](EDS%20Thoery%20Activity%20No.1.pptx)
