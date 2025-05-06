@@ -11,7 +11,8 @@
 [Click to view Preskilet video](https://preskilet.com/67f29e6fc7c642001d824019)
 
 ### 📄 Cisco Certificates
-- [Python Essentials 1 & 2](./Cisco_Certificates.pdf)
+- [Python Essentials 1 ](./Cisco certificate 1.pdf)
+- [Python Essentials 1 ](./Cisco certificate 1.pdf)
 
 ### 📝 EDS Assignment
 - [Activity No-1 (Theory)](./EDS_THEORY_ACTIVITY_NO-1.pdf)
